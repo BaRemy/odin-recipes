@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: rgb(109, 99, 99);
+}
+a {
+    background-color: #d7e1f7;
+    color:rgb(43, 39, 39);
+    font-size: 20px;
+    padding: 0px;
+    margin: 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
